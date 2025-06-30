@@ -3,7 +3,7 @@
 
 ⭐ Star us on GitHub — it helps!
 
-[![repo-size](https://img.shields.io/github/languages/code-size/Ubpa/UGraphviz?style=flat)](https://github.com/Ubpa/UGraphviz/archive/master.zip) [![tag](https://img.shields.io/github/v/tag/Ubpa/UGraphviz)](https://github.com/Ubpa/UGraphviz/tags) [![license](https://img.shields.io/github/license/Ubpa/UGraphviz)](LICENSE) 
+[![repo-size](https://img.shields.io/github/languages/code-size/Ubpa/UGraphviz?style=flat)](https://github.com/alvin-me/UGraphviz/archive/master.zip) [![tag](https://img.shields.io/github/v/tag/Ubpa/UGraphviz)](https://github.com/alvin-me/UGraphviz/tags) [![license](https://img.shields.io/github/license/Ubpa/UGraphviz)](LICENSE) 
 
 ## Example
 
